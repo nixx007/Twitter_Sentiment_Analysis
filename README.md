@@ -12,7 +12,7 @@ This project is a Python script for scraping tweets from Twitter based on specif
 1. Clone the repository.
 2. Install the required dependencies.
 3. Set up the Chrome WebDriver.
-4. Run the script (`python twitter_scraper.py`).
+4. Run the script (`python Twitter_scraper.py`).
 
 ## Usage
 - The script logs into Twitter, searches for tweets using specified keywords, and saves the data to a CSV file.
