@@ -160,9 +160,9 @@ class TwitterScraper:
 
 # Usage
 if __name__ == "__main__":
-    username = "chauhannishaant@gmail.com"
-    phone = "9877688635"
-    password = "Test@12345"
+    username = "your_id"
+    phone = "your_phone"
+    password = "your_password"
     keywords = ["Imbruvica", "Ibrutinib", "Abbvie", "Imbruvica pricing", "Imbruvica drug"]
 
     scraper = TwitterScraper(username, phone, password, keywords)
